@@ -29,7 +29,18 @@
 // console.log(result);
 
 // modulus(%)
+// const x = 17;
+// const y = 5;
+// const result = x % y;
+// console.log(result);
+// console.log(5 + (3*2) / 1);
 
 // increment(++)
+// let x = 5;
+// x++;
+// console.log(x);
 
 // decrement(--)
+let x = 5;
+x--;
+console.log(x);
