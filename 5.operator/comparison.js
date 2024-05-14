@@ -50,9 +50,9 @@
 // const result = x <= y;
 // console.log(result);
 
-// LOGICAL OPERATORS
-// and (&&) -> semua harus true supaya hasil akhir jadi true
-// or (||) -> salah satu true, maka hasil akhir jadi true
-const condition1 = true || true || false || false;
-const condition2 = true && false
-console.log(condition1, condition2);
+// // LOGICAL OPERATORS
+// // and (&&) -> semua harus true supaya hasil akhir jadi true
+// // or (||) -> salah satu true, maka hasil akhir jadi true
+// const condition1 = true || true || false || false;
+// const condition2 = true && false
+// console.log(condition1, condition2);
